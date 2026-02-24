@@ -55,7 +55,17 @@ listNode* deleteFirstOccurence(listNode *head,int key){
         listNode* temp=head;
         head=head->next;
         delete temp;
+        return head;
         
+    }
+    listNode* curr =head;
+    while(curr->next!=NULL && curr->next->data!=key){
+        curr=curr->next;
+    }
+    if(curr->next!=NULL){
+        listNode* temp=curr->next;
+        curr->next=temp->next;
+        delete temp;
     }
     return head;
 }
