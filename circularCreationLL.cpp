@@ -43,8 +43,8 @@ int main() {
             temp=head;
         }
         else{
-            temp->next=newNode;//jha prr temp hai wha prrnaye node ka address store krna
-            temp=newNode;//fir temp mein naya data store krna
+            temp->next=newNode;//jha prr temp hai wha prr naye node ka address store krna
+            temp=newNode;//fir temp ko traverse krna
         }
     }
     //make the list circular
