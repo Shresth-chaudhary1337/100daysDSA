@@ -76,3 +76,31 @@ int main() {
 
     return 0;
 }
+//leetcode version
+/*class Solution {
+public:
+    int leastInterval(vector<char>& tasks, int n) {
+        
+        vector<int> freq(26, 0);
+
+        for(char t : tasks){
+            freq[t - 'A']++;
+        }
+
+        sort(freq.begin(), freq.end());
+
+        int maxFreq = freq[25];
+        int maxCount = 1;
+
+        for(int i = 24; i >= 0; i--){
+            if(freq[i] == maxFreq)
+                maxCount++;
+            else
+                break;
+        }
+
+        int part = (maxFreq - 1) * (n + 1) + maxCount;
+
+        return max((int)tasks.size(), part);
+    }
+};*/
