@@ -57,4 +57,8 @@ int main() {
     }
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cd5e663 (Add courseSchedule.cpp)
