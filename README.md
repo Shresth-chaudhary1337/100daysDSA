@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
