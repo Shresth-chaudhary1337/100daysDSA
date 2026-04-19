@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Heap (Priority Queue)
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0133-clone-graph) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
