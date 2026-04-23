@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0035-search-insert-position) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1192-critical-connections-in-a-network) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
