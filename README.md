@@ -79,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
