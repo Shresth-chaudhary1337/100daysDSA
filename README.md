@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
@@ -83,8 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0875-koko-eating-bananas) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
