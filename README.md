@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -108,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
