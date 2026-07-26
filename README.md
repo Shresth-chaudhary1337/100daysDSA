@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0162-find-peak-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
