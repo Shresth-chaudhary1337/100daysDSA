@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0133-clone-graph) |
 ## Biconnected Component
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
