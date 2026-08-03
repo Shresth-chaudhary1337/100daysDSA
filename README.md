@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0875-koko-eating-bananas) |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -145,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shresth-chaudhary1337/100days_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
